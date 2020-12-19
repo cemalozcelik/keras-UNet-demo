@@ -2,7 +2,9 @@
 
 
 ## About
-U-Net demo implementation in Keras for working with image segmentation tasks.
+U-Net is a powerful convolutional neural network that was developed for biomedical image segmentation. 
+The predictions are very good for segmentation, although there are some mistakes I have made with the test image masks.
+U-Net demo implementation in Keras for working with image segmentation tasks. 
 
 ## Features: 
 
