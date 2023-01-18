@@ -14,7 +14,7 @@ U-Net demo implementation in Keras for working with image segmentation tasks.
 - json files used to draw mask
 - data augmentation used to reduce loss
 
-## Help received
+## ..
 - labelme to get masks point: https://github.com/wkentaro/labelme
 - utils to see model features : https://github.com/karolzak/keras-unet/blob/master/keras_unet/utils.py
 
